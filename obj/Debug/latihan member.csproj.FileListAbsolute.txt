@@ -1,0 +1,7 @@
+D:\18.11.2250\latihan member\latihan member\latihan member\obj\Debug\latihan member.csprojAssemblyReference.cache
+D:\18.11.2250\latihan member\latihan member\latihan member\obj\Debug\latihan member.csproj.CoreCompileInputs.cache
+D:\18.11.2250\latihan member\latihan member\latihan member\bin\Debug\latihan member.exe.config
+D:\18.11.2250\latihan member\latihan member\latihan member\bin\Debug\latihan member.exe
+D:\18.11.2250\latihan member\latihan member\latihan member\bin\Debug\latihan member.pdb
+D:\18.11.2250\latihan member\latihan member\latihan member\obj\Debug\latihan member.exe
+D:\18.11.2250\latihan member\latihan member\latihan member\obj\Debug\latihan member.pdb
